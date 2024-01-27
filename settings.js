@@ -22,26 +22,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "923184070915" //ur owner number2
-global.ownername = "𝗚𝗢𝗝𝗢 𝗞𝗨𝗡" //ur owner name
+global.ownernomer = "2348117974849" //ur owner number2
+global.ownername = "JÆL" //ur owner name
 global.ytname = "YT: S4 SALMAN YT" //ur yt chanel name
 global.socialm = "GitHub: salmanytofficial" //ur github or insta name
 global.location = "Pakistan, Punjab, Lahore" //ur location
 
 //new
 global.botname = "𝙂𝙊𝙅𝙊-𝙈𝘿"
-global.ownernumber = '923184070915'
-global.ownername = '𝗚𝗢𝗝𝗢 𝗞𝗨𝗡'
-global.ownerNumber = ["923184070915@s.whatsapp.net"]
+global.ownernumber = '2348117974849'
+global.ownername = 'JÆL'
+global.ownerNumber = ["2348117974849@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@s4salmanyt"
 global.websitex = "https://youtube.com/@salmanopi"
 global.wagc = "https://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e"
 global.themeemoji = '🪀'
 global.wm = "Kaneki Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-MD' //script link
-global.packname = "𝙂𝙊𝙅𝙊 𝙆𝙐𝙉"
-global.author = "ᗰᗩᗪE ᗷY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.packname = " JÆL"
+global.author = "ᗰᗩᗪE ᗷY ĶÃGÈ"
+global.creator = "2348117974849@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
